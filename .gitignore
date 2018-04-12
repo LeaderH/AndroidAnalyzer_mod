@@ -1,0 +1,10 @@
+*.pyc
+*.xml
+temp/*
+*.p
+
+*.iml
+
+.idea/.name
+results/
+
